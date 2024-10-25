@@ -31,3 +31,4 @@ C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.WebAPI\obj\Debug\net8.0\ref
 C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.WebAPI\obj\Debug\net8.0\CloudCustomers.WebAPI.pdb
 C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.WebAPI\obj\Debug\net8.0\CloudCustomers.WebAPI.genruntimeconfig.cache
 C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.WebAPI\obj\Debug\net8.0\ref\CloudCustomers.WebAPI.dll
+C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.WebAPI\obj\Debug\net8.0\CloudCustomers.WebAPI.sourcelink.json
