@@ -116,3 +116,4 @@ C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.UnitTests\obj\Debug\net8.0\
 C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.UnitTests\obj\Debug\net8.0\CloudCustomers.UnitTests.pdb
 C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.UnitTests\obj\Debug\net8.0\CloudCustomers.UnitTests.genruntimeconfig.cache
 C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.UnitTests\obj\Debug\net8.0\ref\CloudCustomers.UnitTests.dll
+C:\Users\HP\Desktop\PP\CloudCustomers\CloudCustomers.UnitTests\obj\Debug\net8.0\CloudCustomers.UnitTests.sourcelink.json
